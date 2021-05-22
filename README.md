@@ -1,3 +1,2 @@
 # Color-Flipper
-
-https://jyoti-2.github.io/Color-Flipper/
+This web app helps the developer in selecting the theme color of the web app.
